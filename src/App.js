@@ -46,8 +46,8 @@ function App() {
      }
     </div>
     <div className="footer">
-      <a href="ab" target="_blank"><h3>Github Repo <AiOutlineGithub style={{fontSize:"30px"}}/></h3></a>
-      <a href="cd" target="_blank"><h3>Connect with me <AiOutlineTwitter style={{fontSize:"30px"}}/></h3></a>
+      <a href="https://github.com/devAmlan/stock-calculator-mark14" target="_blank" rel="noreferrer"><h3>Github Repo <AiOutlineGithub style={{fontSize:"30px"}}/></h3></a>
+      <a href="https://twitter.com/AmlanjyotiSaho5" target="_blank" rel="noreferrer"><h3>Connect with me <AiOutlineTwitter style={{fontSize:"30px"}}/></h3></a>
     </div>
     </div>
   );
